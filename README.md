@@ -1,0 +1,1 @@
+This is a quiz game built with HTML, CSS and JavaScript.
